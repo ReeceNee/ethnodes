@@ -1,0 +1,9 @@
+[basic]
+logfile=ethnodes.log
+
+[mongodb]
+host=example.com
+port=27017
+user=admin
+passwd=admin'or'1'='1
+
